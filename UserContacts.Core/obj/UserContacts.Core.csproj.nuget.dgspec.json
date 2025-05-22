@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\G10 Group\\UserContacts\\UserContacts.Core\\UserContacts.Core.csproj": {}
+    "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\UserContacts.Core.csproj": {}
   },
   "projects": {
-    "D:\\G10 Group\\UserContacts\\UserContacts.Core\\UserContacts.Core.csproj": {
+    "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\UserContacts.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\G10 Group\\UserContacts\\UserContacts.Core\\UserContacts.Core.csproj",
+        "projectUniqueName": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\UserContacts.Core.csproj",
         "projectName": "UserContacts.Core",
-        "projectPath": "D:\\G10 Group\\UserContacts\\UserContacts.Core\\UserContacts.Core.csproj",
+        "projectPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\UserContacts.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\G10 Group\\UserContacts\\UserContacts.Core\\obj\\",
+        "outputPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

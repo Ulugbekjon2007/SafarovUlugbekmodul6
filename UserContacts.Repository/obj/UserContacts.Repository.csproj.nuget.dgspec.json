@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\G10 Group\\UserContacts\\UserContacts.Repository\\UserContacts.Repository.csproj": {}
+    "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Repository\\UserContacts.Repository.csproj": {}
   },
   "projects": {
-    "D:\\G10 Group\\UserContacts\\UserContacts.Core\\UserContacts.Core.csproj": {
+    "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\UserContacts.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\G10 Group\\UserContacts\\UserContacts.Core\\UserContacts.Core.csproj",
+        "projectUniqueName": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\UserContacts.Core.csproj",
         "projectName": "UserContacts.Core",
-        "projectPath": "D:\\G10 Group\\UserContacts\\UserContacts.Core\\UserContacts.Core.csproj",
+        "projectPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\UserContacts.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\G10 Group\\UserContacts\\UserContacts.Core\\obj\\",
+        "outputPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\G10 Group\\UserContacts\\UserContacts.Dal\\UserContacts.Dal.csproj": {
+    "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\UserContacts.Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\G10 Group\\UserContacts\\UserContacts.Dal\\UserContacts.Dal.csproj",
+        "projectUniqueName": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\UserContacts.Dal.csproj",
         "projectName": "UserContacts.Dal",
-        "projectPath": "D:\\G10 Group\\UserContacts\\UserContacts.Dal\\UserContacts.Dal.csproj",
+        "projectPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\UserContacts.Dal.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\G10 Group\\UserContacts\\UserContacts.Dal\\obj\\",
+        "outputPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,14 +160,14 @@
         }
       }
     },
-    "D:\\G10 Group\\UserContacts\\UserContacts.Repository\\UserContacts.Repository.csproj": {
+    "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Repository\\UserContacts.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\G10 Group\\UserContacts\\UserContacts.Repository\\UserContacts.Repository.csproj",
+        "projectUniqueName": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Repository\\UserContacts.Repository.csproj",
         "projectName": "UserContacts.Repository",
-        "projectPath": "D:\\G10 Group\\UserContacts\\UserContacts.Repository\\UserContacts.Repository.csproj",
+        "projectPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Repository\\UserContacts.Repository.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\G10 Group\\UserContacts\\UserContacts.Repository\\obj\\",
+        "outputPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,11 +188,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\G10 Group\\UserContacts\\UserContacts.Core\\UserContacts.Core.csproj": {
-                "projectPath": "D:\\G10 Group\\UserContacts\\UserContacts.Core\\UserContacts.Core.csproj"
+              "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\UserContacts.Core.csproj": {
+                "projectPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\UserContacts.Core.csproj"
               },
-              "D:\\G10 Group\\UserContacts\\UserContacts.Dal\\UserContacts.Dal.csproj": {
-                "projectPath": "D:\\G10 Group\\UserContacts\\UserContacts.Dal\\UserContacts.Dal.csproj"
+              "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\UserContacts.Dal.csproj": {
+                "projectPath": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\UserContacts.Dal.csproj"
               }
             }
           }

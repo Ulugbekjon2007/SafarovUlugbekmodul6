@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserContacts.Dal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10075d146a031c6b3291d392e5332a8fe8d02031")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2067af18bbde2baef14ecff2685b6a2a1c8cc138")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserContacts.Dal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserContacts.Dal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
