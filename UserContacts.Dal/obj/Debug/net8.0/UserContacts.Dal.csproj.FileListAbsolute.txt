@@ -1,0 +1,15 @@
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\bin\Debug\net8.0\UserContacts.Dal.deps.json
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\bin\Debug\net8.0\UserContacts.Dal.runtimeconfig.json
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\bin\Debug\net8.0\UserContacts.Dal.dll
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\bin\Debug\net8.0\UserContacts.Dal.pdb
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\UserContacts.Dal.csproj.AssemblyReference.cache
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\UserContacts.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\UserContacts.Dal.AssemblyInfoInputs.cache
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\UserContacts.Dal.AssemblyInfo.cs
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\UserContacts.Dal.csproj.CoreCompileInputs.cache
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\UserContacts.Dal.sourcelink.json
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\UserContacts.Dal.dll
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\refint\UserContacts.Dal.dll
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\UserContacts.Dal.pdb
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\UserContacts.Dal.genruntimeconfig.cache
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Dal\obj\Debug\net8.0\ref\UserContacts.Dal.dll

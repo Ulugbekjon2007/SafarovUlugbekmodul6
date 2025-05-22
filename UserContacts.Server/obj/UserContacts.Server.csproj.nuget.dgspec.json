@@ -412,9 +412,25 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
-            "Serilog.Sinks.MSSqlServer": {
+            "Serilog.Sinks.PostgreSQL": {
               "target": "Package",
-              "version": "[8.2.0, )"
+              "version": "[2.3.0, )"
+            },
+            "Serilog.Sinks.Telegram": {
+              "target": "Package",
+              "version": "[0.2.1, )"
+            },
+            "Serilog.Sinks.Telegram.Alternative": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Serilog.Sinks.TelegramBot": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Serilog.Sinks.TelegramClient": {
+              "target": "Package",
+              "version": "[2.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

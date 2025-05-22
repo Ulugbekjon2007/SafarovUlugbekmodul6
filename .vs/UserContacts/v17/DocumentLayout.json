@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\configurations\\serilogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\usercontacts.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\usercontacts.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 261,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,8 +49,30 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UserContacts.Server\\appsettings.Development.json",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\appsettings.Development.json",
+              "RelativeToolTip": "UserContacts.Server\\appsettings.Development.json",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T05:36:30.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "UserContacts.Server\\appsettings.json",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\appsettings.json",
+              "RelativeToolTip": "UserContacts.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T05:36:27.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,14 +82,14 @@
               "RelativeDocumentMoniker": "UserContacts.Server\\Configurations\\SerilogConfiguration.cs",
               "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\Configurations\\SerilogConfiguration.cs",
               "RelativeToolTip": "UserContacts.Server\\Configurations\\SerilogConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T05:30:02.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserContacts.Dal.csproj",
               "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\UserContacts.Dal.csproj",
               "RelativeDocumentMoniker": "UserContacts.Dal\\UserContacts.Dal.csproj",
@@ -67,7 +97,8 @@
               "RelativeToolTip": "UserContacts.Dal\\UserContacts.Dal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T03:40:08.615Z"
+              "WhenOpened": "2025-05-22T03:40:08.615Z",
+              "EditorCaption": ""
             }
           ]
         }

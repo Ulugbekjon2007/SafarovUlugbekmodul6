@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserContacts.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2067af18bbde2baef14ecff2685b6a2a1c8cc138")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e254014b8a6944fe64b317ad22da480a5f2d2471")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserContacts.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserContacts.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
