@@ -3,20 +3,124 @@
   "WorkspaceRootPath": "D:\\Modul test\\SafarovUlugbekmodul6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.server\\configurations\\serilogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\configurations\\serilogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\migrations\\maincontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\migrations\\maincontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.server\\configurations\\databaseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\configurations\\databaseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\usercontacts.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\usercontacts.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.dal\\configurations\\contactconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3539B5DB-1AB2-4B27-A88A-B016C70B3743}|UserContacts.Dal\\UserContacts.Dal.csproj|solutionrelative:usercontacts.dal\\configurations\\contactconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.core\\errors\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.core\\errors\\notallowedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\notallowedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.core\\errors\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.core\\errors\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.core\\errors\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.core\\errors\\authexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074E36CA-2400-4411-AA6A-1EC57C6F270E}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\authexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\validators\\usercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\validators\\usercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\validators\\contactdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\validators\\contactdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\validators\\contactcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\validators\\contactcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\dtos\\contactcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\dtos\\contactcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.bll\\usercontacts.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29432D64-3BF3-489C-AFFC-861B87387AF2}|UserContacts.Bll\\UserContacts.Bll.csproj|solutionrelative:usercontacts.bll\\usercontacts.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.server\\configurations\\serilogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\configurations\\serilogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|d:\\modul test\\safarovulugbekmodul6\\usercontacts.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3124826D-2C04-4BAE-B30E-A7DBF5404C78}|UserContacts.Server\\UserContacts.Server.csproj|solutionrelative:usercontacts.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 261,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +154,371 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Helpers\\TokenService.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Helpers\\TokenService.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Helpers\\TokenService.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Helpers\\TokenService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:34:30.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConfigurations.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\Configurations\\DatabaseConfigurations.cs",
+              "RelativeDocumentMoniker": "UserContacts.Server\\Configurations\\DatabaseConfigurations.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\Configurations\\DatabaseConfigurations.cs",
+              "RelativeToolTip": "UserContacts.Server\\Configurations\\DatabaseConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:31:09.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\Program.cs",
+              "RelativeDocumentMoniker": "UserContacts.Server\\Program.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\Program.cs",
+              "RelativeToolTip": "UserContacts.Server\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAADwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:12:50.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainContext.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\MainContext.cs",
+              "RelativeDocumentMoniker": "UserContacts.Dal\\MainContext.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\MainContext.cs",
+              "RelativeToolTip": "UserContacts.Dal\\MainContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:00:50.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Migrations\\MainContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UserContacts.Dal\\Migrations\\MainContextModelSnapshot.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Migrations\\MainContextModelSnapshot.cs",
+              "RelativeToolTip": "UserContacts.Dal\\Migrations\\MainContextModelSnapshot.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAjwGsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:00:44.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "UserContacts.Dal\\Entities\\UserRole.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Entities\\UserRole.cs",
+              "RelativeToolTip": "UserContacts.Dal\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:00:18.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UserContacts.Dal\\Entities\\User.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Entities\\User.cs",
+              "RelativeToolTip": "UserContacts.Dal\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:00:12.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "UserContacts.Dal\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "UserContacts.Dal\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:28.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "UserContacts.Dal\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "UserContacts.Dal\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:26.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RefreshTokenConfiguration.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "UserContacts.Dal\\Configurations\\RefreshTokenConfiguration.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeToolTip": "UserContacts.Dal\\Configurations\\RefreshTokenConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactConfiguration.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Configurations\\ContactConfiguration.cs",
+              "RelativeDocumentMoniker": "UserContacts.Dal\\Configurations\\ContactConfiguration.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\Configurations\\ContactConfiguration.cs",
+              "RelativeToolTip": "UserContacts.Dal\\Configurations\\ContactConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:18.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\UnauthorizedException.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\UnauthorizedException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:06.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotAllowedException.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\NotAllowedException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\NotAllowedException.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\NotAllowedException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\NotAllowedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:04.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\EntityNotFoundException.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\EntityNotFoundException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:01.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\ForbiddenException.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\ForbiddenException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\ForbiddenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:00.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseException.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\BaseException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\BaseException.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\BaseException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\BaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:58:58.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthException.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\AuthException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\AuthException.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Core\\Errors\\AuthException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\AuthException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:58:30.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactDtoValidator.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Validators\\ContactDtoValidator.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Validators\\ContactDtoValidator.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Validators\\ContactDtoValidator.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Validators\\ContactDtoValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:58:15.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContactCreateDtoValidator.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Validators\\ContactCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Validators\\ContactCreateDtoValidator.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Validators\\ContactCreateDtoValidator.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Validators\\ContactCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:58:00.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Services\\AuthService.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Services\\AuthService.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:55:26.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RefreshRequestDto.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\RefreshRequestDto.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Dtos\\RefreshRequestDto.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\RefreshRequestDto.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Dtos\\RefreshRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:55:10.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactDto.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\ContactDto.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Dtos\\ContactDto.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\ContactDto.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Dtos\\ContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:55:03.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContactCreateDto.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\ContactCreateDto.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Dtos\\ContactCreateDto.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\ContactCreateDto.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Dtos\\ContactCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:54:59.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserCreateDtoValidator.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Validators\\UserCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Validators\\UserCreateDtoValidator.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Validators\\UserCreateDtoValidator.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Validators\\UserCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:46:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Dtos\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\LoginResponseDto.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Dtos\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:55:11.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\Dtos\\UserLoginDto.cs",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\Dtos\\UserLoginDto.cs",
+              "RelativeToolTip": "UserContacts.Bll\\Dtos\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:55:17.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserContacts.Bll",
+              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\UserContacts.Bll.csproj",
+              "RelativeDocumentMoniker": "UserContacts.Bll\\UserContacts.Bll.csproj",
+              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Bll\\UserContacts.Bll.csproj",
+              "RelativeToolTip": "UserContacts.Bll\\UserContacts.Bll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T05:46:00.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\appsettings.Development.json",
               "RelativeDocumentMoniker": "UserContacts.Server\\appsettings.Development.json",
               "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\appsettings.Development.json",
               "RelativeToolTip": "UserContacts.Server\\appsettings.Development.json",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-22T05:36:30.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\appsettings.json",
               "RelativeDocumentMoniker": "UserContacts.Server\\appsettings.json",
@@ -76,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 28,
               "Title": "SerilogConfiguration.cs",
               "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Server\\Configurations\\SerilogConfiguration.cs",
               "RelativeDocumentMoniker": "UserContacts.Server\\Configurations\\SerilogConfiguration.cs",
@@ -85,19 +540,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T05:30:02.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserContacts.Dal.csproj",
-              "DocumentMoniker": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\UserContacts.Dal.csproj",
-              "RelativeDocumentMoniker": "UserContacts.Dal\\UserContacts.Dal.csproj",
-              "ToolTip": "D:\\Modul test\\SafarovUlugbekmodul6\\UserContacts.Dal\\UserContacts.Dal.csproj",
-              "RelativeToolTip": "UserContacts.Dal\\UserContacts.Dal.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T03:40:08.615Z",
               "EditorCaption": ""
             }
           ]

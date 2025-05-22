@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿    using Microsoft.EntityFrameworkCore;
 using UserContacts.Dal.Configurations;
 using UserContacts.Dal.Entities;
 
@@ -8,7 +8,7 @@ public class MainContext : DbContext
 {
     public DbSet<User> Users { get; set; }
     public DbSet<Contact> Contacts { get; set; }
-    public DbSet<UserRole> UserRoles { get; set; }
+    public DbSet<UserRole> UserRoles { get; set; }  
     public DbSet<RefreshToken> RefreshTokens { get; set; }
 
     public MainContext(DbContextOptions<MainContext> options) : base(options)

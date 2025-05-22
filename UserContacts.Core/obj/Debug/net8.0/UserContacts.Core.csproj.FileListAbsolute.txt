@@ -10,3 +10,4 @@ D:\Modul test\SafarovUlugbekmodul6\UserContacts.Core\obj\Debug\net8.0\UserContac
 D:\Modul test\SafarovUlugbekmodul6\UserContacts.Core\obj\Debug\net8.0\refint\UserContacts.Core.dll
 D:\Modul test\SafarovUlugbekmodul6\UserContacts.Core\obj\Debug\net8.0\UserContacts.Core.pdb
 D:\Modul test\SafarovUlugbekmodul6\UserContacts.Core\obj\Debug\net8.0\ref\UserContacts.Core.dll
+D:\Modul test\SafarovUlugbekmodul6\UserContacts.Core\obj\Debug\net8.0\UserContacts.Core.csproj.AssemblyReference.cache

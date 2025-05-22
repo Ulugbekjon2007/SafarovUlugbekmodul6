@@ -1,8 +1,10 @@
 using FluentValidation;
+using Microsoft.EntityFrameworkCore;
 using UserContacts.Bll.Dtos;
 using UserContacts.Bll.Helpers;
 using UserContacts.Bll.Services;
 using UserContacts.Bll.Validators;
+using UserContacts.Dal;
 using UserContacts.Repository.Services;
 using UserContacts.Server.Configurations;
 using UserContacts.Server.Endpoints;
@@ -20,6 +22,10 @@ namespace UserContacts.Server
             //{
             //    options.ListenAnyIP(5000); // Hamma IP-lardan 5000-portda qabul qiladi
             //});
+
+
+            builder.Services.AddDbContext<MainContext>(options =>
+                options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
 

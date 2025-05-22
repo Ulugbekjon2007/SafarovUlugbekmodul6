@@ -13,7 +13,7 @@ public static class DatabaseConfigurations
 
         // builder.Services.AddSingleton<SqlDBConeectionString>(sqlDBConeectionString);
         builder.Services.AddDbContext<MainContext>(options =>
-          options.UseSqlServer(connectionString));
+          options.UseNpgsql(connectionString));
 
 
         //builder.Services.AddAutoMapper(typeof(MappingProFile));
